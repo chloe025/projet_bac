@@ -1,0 +1,89 @@
+https://deptinfo-ensip.univ-poitiers.fr/ENS/doku/doku.php/stu:python_gui:dessins_tkinter_pyside
+https://html-color-codes.info/Codes-couleur-HTML/
+http://fsincere.free.fr/isn/python/cours_python_ch3.php
+https://www.developpez.net/forums/d1325835/autres-langages/python-zope/general-python/pil-redimensionner-image-resize/
+https://openclassrooms.com/forum/sujet/tkfont-probleme-d-import-13467
+https://openclassrooms.com/fr/courses/1399541-interface-graphique-pygame-pour-python/1399813-premieres-fenetres
+https://openclassrooms.com/fr/courses/1399541-interface-graphique-pygame-pour-python/1400297-le-son
+https://stackoverflow.com/questions/55013380/how-do-i-put-a-button-on-a-canvas
+https://www.developpez.net/forums/d201641/autres-langages/python-zope/gui/tkinter/associer-clic-souris-dessin-d-rond-canevas/
+https://stackoverflow.com/questions/16059592/tkinter-tclerror-invalid-command-name-4302957584
+https://openclassrooms.com/fr/courses/1399541-interface-graphique-pygame-pour-python/1399813-premieres-fenetres
+https://www.translatetheweb.com/?from=&to=fr&ref=SERP&refd=www.bing.com&dl=fr&rr=HE&a=https%3a%2f%2fpython-forum.io%2fThread-AttributeError-NoneType-object-has-no-attribute-get
+http://infohost.nmt.edu/tcc/help/pubs/tkinter/web/checkbutton.html
+https://www.developpez.net/forums/d1436028/autres-langages/python-zope/gui/tkinter/tkinter-renvoyer-variable-button/
+
+
+""" if n == 1:
+        listeRep1 = listeRep2
+        listerep = [0, 1, 0, 0]
+    elif n == 2:
+        listeRep1 = listeRep3
+        listerep = [1, 0, 0, 0]
+    elif n == 3:
+        listeRep1 = listeRep4
+        listerep = [0, 0, 0, 1]
+    elif n == 4:
+        listeRep1 = listeRep5
+        listerep = [1, 0, 0, 0]
+    elif n == 5:
+        listeRep1 = listeRep6
+        listerep = [0, 0, 1, 0]
+    elif n == 6:
+        listeRep1 = listeRep7
+        listerep = [1, 1, 0, 1]
+    elif n == 7:
+        listeRep1 = listeRep8
+        listerep = [0, 0, 0, 1]
+    elif n == 8:
+        listeRep1 = listeRep9
+        listerep = [0, 0, 0, 1]
+    elif n == 9:
+        listeRep1 = listeRep10
+        listerep = [0, 1, 0, 0]
+    elif n == 10:
+        listeRep1 = listeRep11
+        listerep = [0, 0, 1, 0]
+    elif n == 11:
+        listeRep1 = listeRep12
+        listerep = [0, 0, 0, 1]
+    elif n == 12:
+        listeRep1 = listeRep13
+        listerep = [1, 0, 0, 0]
+    elif n == 13:
+        listeRep1 = listeRep14
+        listerep = [0, 0, 0, 1]
+    elif n == 14:
+        listeRep1 = listeRep15
+        listerep = [0, 0, 1, 0]
+    elif n == 15:
+        listeRep1 = listeRep16
+        listerep = [0, 0, 0, 1]
+    elif n == 16:
+        listeRep1 = listeRep17
+        listerep = [1, 0, 0, 0]
+    elif n == 17:
+        listeRep1 = listeRep18
+        listerep = [0, 0, 1, 0]
+    elif n == 18:
+        listeRep1 = listeRep19
+        listerep = [0, 0, 0, 1]
+    elif n == 19:
+        listeRep1 = listeRep20
+        listerep = [0, 0, 0, 1]
+    elif n == 20:
+        listeRep1 = listeRep21
+        listerep = [0, 1, 0, 0]
+    elif n == 21:
+        listeRep1 = listeRep22
+        listerep = [0, 0, 1, 0]
+    elif n == 22:
+        listeRep1 = listeRep23
+        listerep = [0, 1, 0, 1]
+    elif n ==23:
+        listeRep1= listeRep24
+        listerep = [1, 0, 0, 0]
+    else:
+        termine()
+
+"""
